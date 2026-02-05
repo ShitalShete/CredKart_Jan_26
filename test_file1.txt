@@ -1,3 +1,0 @@
-This is test file created at local.
-This edited file by locally.
-This file is edited at global.
