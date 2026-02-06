@@ -1,1 +1,1 @@
-pytest -v -s -n=auto   "--alluredir=AllureReports" "--disable-warnings"  "--broswer headless"
+pytest -v -s -n=auto   --html=Html_Reports\my_headless_report.html --browser headless -k "test_verify_Credkart_url_001" --alluredir=AllureReports
