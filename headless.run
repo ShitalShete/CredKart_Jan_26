@@ -1,0 +1,1 @@
+pytest -v -s -n=auto  --html=Html_Reports\my_headless_report_31_jan_2026.html --alluredir=AllureReports --disable-warnings
